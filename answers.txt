@@ -4,4 +4,4 @@ Answer: everyone uses it!
 
 Q2: What field could data science be applied to? Give an Example.
 
-Answer: computational biology!
+Answer: computational biology! pulling in sequence data from a file and getting statistics on the data.
