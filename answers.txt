@@ -8,5 +8,9 @@ Answer: computational biology! pulling in sequence data from a file and getting 
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: merge combines 2 branches by making a new merge commit and preserves original branch structure ; rebase moves commits to tip of another branch and makes history look linear 
+Answer: merge combines 2 branches by making a new merge commit and preserves original branch structure ; rebase moves commits to tip of another branch and makes history look linear
+
+Q4: What are you looking forward to this semester?
+
+Answer: graduating LOLLLLL 
 
